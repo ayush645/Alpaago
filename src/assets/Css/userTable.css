@@ -1,0 +1,15 @@
+.heading1 {
+  color: white;
+}
+@media screen and (max-width: 900px) {
+  .delete {
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 513px) {
+  .submit {
+    margin-top: 25px;
+  }
+}
+

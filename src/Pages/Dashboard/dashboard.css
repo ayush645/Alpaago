@@ -1,0 +1,22 @@
+/* styles.css (or your styles file) */
+.button {
+  padding: 5px;
+  flex: 1;
+  border: 1px solid white;
+  background-color: #1f293b;
+  font-size: 16px;
+  font-family: "Poppins";
+  height: 50px;
+  border-radius: 5px;
+  color: white;
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #ffffff; /* Change to the desired hover background color */
+  color: #1f293b; /* Change to the desired hover text color */
+}
